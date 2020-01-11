@@ -1,0 +1,25 @@
+{
+  "name": "payloadpacker",
+  "version": "1.0.0",
+  "description": "metasploit payload packer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node main.js"
+  },
+  "bin" : "./bin/bin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yatoub42/payloadPacker.git"
+  },
+  "keywords": [
+    "metasploit",
+    "payload"
+  ],
+  "author": "Yatoub42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yatoub42/payloadPacker/issues"
+  },
+  "homepage": "https://github.com/Yatoub42/payloadPacker#readme"
+}
